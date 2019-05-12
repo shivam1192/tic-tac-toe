@@ -1,6 +1,0 @@
-******************
-To open the game clone the file named tic tac toe.exe
-
-and enjoyed the game
-
-******************

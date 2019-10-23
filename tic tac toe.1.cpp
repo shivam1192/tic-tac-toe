@@ -215,3 +215,6 @@ void dia(int i,int j,int n,int k)
 	else
 	printf("%c",ar[i][j]);
 }
+void tshirtchahiye(){
+printf("helloprocommit1");
+}
